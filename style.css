@@ -1,0 +1,30 @@
+header, footer{
+  text-align: center;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+#pianoPic {
+  width: 100%;
+}
+
+#welcomeText, #reasonsWhy {
+  display: inline-block;
+  max-width: 50%;
+  font-size: 24px;
+  text-align: center;
+  background-color: lightgrey;
+  border-radius: 5%;
+}
+
+#reasonsWhy {
+  text-align: left;
+}
+
+#welcomeBox, #reasonsBox {
+  text-align: center;
+  margin: 10px;
+}
+

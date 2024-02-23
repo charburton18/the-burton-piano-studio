@@ -1,0 +1,22 @@
+#headshot {
+  max-width: 50%;
+}
+
+#headshotBox {
+  align-items: right;
+}
+
+#bio {
+  display: flex;
+  text-align: left;
+}
+
+#bioBox {
+  display: flex;
+  max-width: 50%;
+}
+
+#main {
+  display: flex;
+  flex-direction: row;
+}
