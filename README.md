@@ -10,7 +10,7 @@ The Burton Piano Studio website is promotional and informational website for Mar
 
 If you would like to have a copy of TBPS on your local computer to run in your IDE and experiment with, follow these steps:
 
-1. Create a clone of our repository https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+1. Create a clone of the repository https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 2. Download node.js if you do not already have it installed https://nodejs.org/en/download/package-manager
 3. In your terminal, navigate to the root file of the repo and run the command ```npm install```
 4. To run the code locally, use the command ```npm run dev```
