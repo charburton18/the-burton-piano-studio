@@ -1,12 +1,14 @@
+import {Link} from 'react-router-dom'
+
 function NavBar() {
 
   return (
     <>
       <nav className="bg-black p-5 flex justify-between px-10 outline outline-gray-500 outline-1">
-        <a className="text-white">Home</a>
-        <a className="text-white">About</a>
-        <a className="text-white">Contact</a>
-        <a className="text-white">Login/Register</a>
+        <Link to="/"><p className="text-white">Home</p></Link>
+        <Link to="/about"><p className="text-white">About</p></Link>
+        <Link to="/contact"><p className="text-white">Contact</p></Link>
+        <Link to="/login-register"><p className="text-white">Login/Register</p></Link>
       </nav>
     </>
   )
