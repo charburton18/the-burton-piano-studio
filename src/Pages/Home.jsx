@@ -1,3 +1,4 @@
+import GenericFooter from "../Components/GenericFooter"
 import NavBar from "../Components/NavBar"
 
 function Home() {
@@ -15,11 +16,11 @@ function Home() {
     <section id="homeWhiteSection" className="flex justify-center">
       <div className="flex justify-center flex-col align-middle p-8">
         <h2 className="text-zinc-900 text-5xl font-thin text-center pb-5">Welcome!</h2>
-        <p className="text-zinc-900 font-light text-3xl text-center pb-60">Welcome to our studio! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris iaculis, nisi sed venenatis mollis, leo felis sagittis libero, at dignissim erat purus a tortor. Pellentesque vel augue massa. Proin euismod ante in euismod aliquam. Vestibulum gravida lectus et nibh gravida aliquam.</p>
+        <p className="text-zinc-900 font-light text-3xl text-center">Welcome to our studio! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris iaculis, nisi sed venenatis mollis, leo felis sagittis libero, at dignissim erat purus a tortor. Pellentesque vel augue massa. Proin euismod ante in euismod aliquam. Vestibulum gravida lectus et nibh gravida aliquam.</p>
       </div>
     </section>
 
-    <footer></footer>
+    <GenericFooter></GenericFooter>
     </>
   )
 }
