@@ -7,9 +7,8 @@ function Home() {
     <>
     <NavBar></NavBar>
     <div id="homeImg" className="bg-[url(piano-studio-images/piano-1920x670.jpg)] bg-fixed bg-top bg-no-repeat">
-        <div id="emptyDiv" className="min-h-40"></div>
-      <div className="flex justify-start align-bottom p-8">
-        <h1 className="text-white text-7xl font-thin">The<br></br>Burton<br></br>Piano<br></br>Studio</h1>
+      <div className="flex justify-start p-8 pt-28 pb-0">
+        <h1 className="text-white text-8xl font-thin leading-tight tracking-wider">The<br></br>Burton<br></br>Piano<br></br>Studio</h1>
       </div>
     </div>
 
