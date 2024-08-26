@@ -16,6 +16,6 @@ If you would like to have a copy of TBPS on your local computer to run in your I
 4. To run the code locally, use the command ```npm run dev```
 
 ## Issues and Bugs
-If you find any issues or bugs that need addressing, please submit a PR regarding the bug.
+If you find any issues or bugs that need addressing, please submit a PR.
 
 Thank you!!
