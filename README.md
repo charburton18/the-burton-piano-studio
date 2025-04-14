@@ -2,6 +2,8 @@
 
 Welcome to the repository for The Burton Piano Studio website (TBPS)! 
 
+![Screenshot 2025-04-14 at 11 10 36 AM](https://github.com/user-attachments/assets/d910e7eb-7142-4290-88c2-7e75cd086025)
+
 ## Project Description
 
 The Burton Piano Studio website is promotional and informational website for Margaret Burton's piano studio.
